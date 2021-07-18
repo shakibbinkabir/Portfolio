@@ -1760,4 +1760,14 @@ body.light hr.separator {
   .separator.mt-1 {
     margin-top: 35px !important;
   }
+
+ .footer {
+font-size: 10px;
+height: 100px;
+width: 100%;
+position: absolute;
+padding-top: 50px;
+text-align: center;
+justify-content: center;
+}
 }
