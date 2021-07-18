@@ -787,14 +787,16 @@ body.light hr.separator {
   font-size: 18px;
 }
 
-.portfolio .footer{
-	font-size: 10px;
+.portfolio .main-content .footer{
 	position: absolute;
 	height: 100px;
 	width: 100%;
 	text-align: center;
 	justify-content: center;
 	padding-top: -20px;
+}
+.portfolio .main-content .footer h5{
+	font-size: 10px;
 }
 
 /* Slideshow */
