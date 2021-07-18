@@ -798,6 +798,16 @@ body.light hr.separator {
 .portfolio .main-content .footer h5{
 	font-size: 10px;
 }
+.port-footer{
+  position: absolute;
+  height: 100px;
+  width: 100%;
+  text-align: center;
+  justify-content: center;
+}
+.port-footer h5{
+    font-size: 20px;
+}
 
 /* Slideshow */
 
