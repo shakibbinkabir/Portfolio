@@ -13,6 +13,7 @@ body.light #menu li.active a,
 .portfolio .slideshow figcaption h3,
 .portfolio .slideshow a,
 .portfolio .grid figure:hover figcaption,
+.portfolio .port-footer,
 .blog-post .meta i{
 	color: #ee6192;
 }
